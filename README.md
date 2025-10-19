@@ -1,2 +1,3 @@
 # apna
-author shreya
+author shreya 
+an MCA graduate
